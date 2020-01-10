@@ -1,0 +1,12 @@
+{
+    "editor.tabCompletion": "on",
+    "editor.formatOnType": true,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.quickSuggestionsDelay": 15,
+    "workbench.iconTheme": "vscode-great-icons",
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "materialTheme.accent": "Breaking Bad",
+    "npm.enableRunFromFolder": true,
+    "oneDarkPro.vivid": true
+}
